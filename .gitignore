@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.exe
+*.o
+*.obj
+.DS_Store
+.vscode/
+.idea/
+backend/*.exe
+backend/*.o
